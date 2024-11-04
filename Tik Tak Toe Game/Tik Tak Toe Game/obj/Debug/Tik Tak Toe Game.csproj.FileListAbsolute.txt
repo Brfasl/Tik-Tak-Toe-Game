@@ -1,0 +1,10 @@
+C:\Users\Berfin\source\repos\Tik Tak Toe Game\Tik Tak Toe Game\bin\Debug\Tik Tak Toe Game.exe.config
+C:\Users\Berfin\source\repos\Tik Tak Toe Game\Tik Tak Toe Game\bin\Debug\Tik Tak Toe Game.exe
+C:\Users\Berfin\source\repos\Tik Tak Toe Game\Tik Tak Toe Game\bin\Debug\Tik Tak Toe Game.pdb
+C:\Users\Berfin\source\repos\Tik Tak Toe Game\Tik Tak Toe Game\obj\Debug\Tik Tak Toe Game.csprojAssemblyReference.cache
+C:\Users\Berfin\source\repos\Tik Tak Toe Game\Tik Tak Toe Game\obj\Debug\Tik_Tak_Toe_Game.Form1.resources
+C:\Users\Berfin\source\repos\Tik Tak Toe Game\Tik Tak Toe Game\obj\Debug\Tik_Tak_Toe_Game.Properties.Resources.resources
+C:\Users\Berfin\source\repos\Tik Tak Toe Game\Tik Tak Toe Game\obj\Debug\Tik Tak Toe Game.csproj.GenerateResource.cache
+C:\Users\Berfin\source\repos\Tik Tak Toe Game\Tik Tak Toe Game\obj\Debug\Tik Tak Toe Game.csproj.CoreCompileInputs.cache
+C:\Users\Berfin\source\repos\Tik Tak Toe Game\Tik Tak Toe Game\obj\Debug\Tik Tak Toe Game.exe
+C:\Users\Berfin\source\repos\Tik Tak Toe Game\Tik Tak Toe Game\obj\Debug\Tik Tak Toe Game.pdb
