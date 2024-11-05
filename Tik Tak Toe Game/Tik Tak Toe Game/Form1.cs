@@ -14,7 +14,7 @@ namespace Tik_Tak_Toe_Game
     {
         public enum Player
         {
-            X,O
+            X,O,M
         }
         Player currentPlayer;
         Random random = new Random();
